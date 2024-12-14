@@ -3,6 +3,7 @@ Date created/updated: December, 9, 2024.
 Learning Objectives [# STAT341 3 Credits Probability & Statistics ](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341-3-credit-spring-202).
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, variable types, distribution properties, discrete & continuous types, R functions, probability distributions, ANOVA, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA).
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
+![download](https://github.com/user-attachments/assets/82752b5d-4306-47a8-9278-1d2c2cf94f11)
 
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
