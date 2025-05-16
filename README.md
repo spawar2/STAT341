@@ -4,7 +4,9 @@ Learning Objectives [# STAT 341 3 Credits, Probability & Statistics](https://paw
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, variable types, distribution properties, discrete & continuous types, R functions, probability distributions, ANOVA, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA), data wrangling, Post Hoc Test. Data wrangling and handling.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 ![download](https://github.com/user-attachments/assets/82752b5d-4306-47a8-9278-1d2c2cf94f11)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 [R: ggpubr, tidyverse, datarium, dplyr].
